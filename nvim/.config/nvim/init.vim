@@ -61,6 +61,7 @@ Plug 'drewtempelmeyer/palenight.vim'
 Plug 'joshdick/onedark.vim'
 Plug 'ghifarit53/tokyonight-vim'
 Plug 'pacokwon/onedarkhc.vim'
+Plug 'AlessandroYorba/Alduin'
 
 
 Plug 'ryanoasis/vim-devicons'
@@ -111,6 +112,14 @@ colorscheme tokyonight
 
 "let g:airline_theme = 'tokyonight'
 let g:airline_powerline_fonts = 1
+
+
+"Alduin config, uncomment if needed
+"let g:alduin_Shout_Dragon_Aspect = 1 "Almost black background
+"let g:alduin_Shout_Become_Ethereal = 1 "Black background
+"let g:alduin_Shout_Fire_Breath = 1 "Adds deep red color for special highlight
+"let g:alduin_Shout_Aura_Whisper = 1 "Removes block matchparens, adds underline
+
 
 "Split pane behaviour
 set splitright
