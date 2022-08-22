@@ -10,5 +10,5 @@ stow $PROGRAM/
 stow */  
 
 ## Dependencies/Version stuff  
-neovim 0.7.0
-node v18.7.0
+neovim 0.7.0  
+node v18.7.0  
