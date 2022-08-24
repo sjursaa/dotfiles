@@ -7,6 +7,7 @@ filetype indent on
 
 set path+=**
 set wildmenu
+set textwidth=80
 
 set clipboard+=unnamedplus
 
