@@ -1,3 +1,5 @@
+source WordProcessor.vim
+
 set shell=/bin/bash
 set nocompatible
 
