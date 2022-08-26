@@ -1,4 +1,4 @@
-source WordProcessor.vim
+source ~/.config/nvim/WordProcessor.vim
 
 set shell=/bin/bash
 set nocompatible
