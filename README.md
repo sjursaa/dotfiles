@@ -8,7 +8,7 @@
 1. cd dotfiles/  
 2. stow $PROGRAM/  
 ### Alternatively
-2. stow *// If all configs should be stowed
+2. "stow \*" // If all configs should be stowed
 
 ## Dependencies/Version stuff    
 gnu stow 
