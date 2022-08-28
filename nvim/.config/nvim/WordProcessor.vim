@@ -10,7 +10,7 @@ func! WordProcessor()
     setlocal linebreak
     " spelling and thesaurus
     setlocal spell spelllang=en_us
-    set thesaurus+=~/.config/nvim/thesaurus/mthesaur.txt
+    "set thesaurus+=~/.config/nvim/thesaurus/mthesaur.txt
     "/home/ssa/.config/nvim/thesaurus
     set complete+=s
 endfu
