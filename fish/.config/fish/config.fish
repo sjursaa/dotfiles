@@ -5,3 +5,4 @@ alias ccat="highlight -O ansi --force"
 alias see='explorer.exe'
 alias bat='batcat'
 alias cds="cd /mnt/c/Users/Sjur/Cloud/Workspace/"
+fish_vi_key_bindings
