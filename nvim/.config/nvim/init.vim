@@ -26,7 +26,7 @@ set backspace=indent,eol,start
 set autoindent 
 set relativenumber
 set number
-set wildmode=longest,list
+set wildmode=longest,list, full
 set cc=80
 filetype plugin indent on
 set mouse=a
@@ -112,6 +112,7 @@ colorscheme tokyonight
 
 "let g:airline_theme = 'tokyonight'
 let g:airline_powerline_fonts = 1
+"let g:airline#extensions#tabline#enabled = 1
 
 
 "Alduin config, uncomment if needed
