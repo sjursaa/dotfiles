@@ -1,3 +1,5 @@
+source ~/.config/nvim/WordProcessor.vim
+
 set shell=/bin/bash
 set nocompatible
 
@@ -7,6 +9,7 @@ filetype indent on
 
 set path+=**
 set wildmenu
+set textwidth=80
 
 set clipboard+=unnamedplus
 
@@ -101,7 +104,7 @@ Plug 'ThePrimeagen/vim-be-good' "uknowdis
 
 " Markdown stuff
 ""Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']} 
-Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install' }
+""Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install' }
 
 call plug#end()
 
