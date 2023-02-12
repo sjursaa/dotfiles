@@ -1,4 +1,4 @@
-source ~/.config/nvim/WordProcessor.vim
+""source ~/.config/nvim/WordProcessor.vim
 
 set shell=/bin/bash
 set nocompatible
@@ -75,7 +75,7 @@ Plug 'SirVer/ultisnips'
 Plug 'quangnguyen30192/cmp-nvim-ultisnips'
 
 "Nerdstuff
-Plug 'nvim-treesitter/nvim-treesitter', {'do': 'TSUpdate'}
+"Plug 'nvim-treesitter/nvim-treesitter', {'do': 'TSUpdate'}
 Plug 'nvim-lua/plenary.nvim'
 Plug 'scrooloose/nerdtree'
 Plug 'preservim/nerdcommenter'
