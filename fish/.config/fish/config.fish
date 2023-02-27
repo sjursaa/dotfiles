@@ -5,7 +5,6 @@ alias ccat="highlight -O ansi --force"
 alias see='explorer.exe'
 alias bat='batcat'
 alias cds="cd /mnt/c/Users/Sjur/Cloud/Workspace/"
-<<<<<<< HEAD
 alias cdc="cd /mnt/c/"
 
 
@@ -18,6 +17,4 @@ function pomodoro
     echo -ne '\007'
 end
 
-=======
-fish_vi_key_bindings
->>>>>>> 943f8be177cf6a7e103b8be6e9cd704574b586e3
+#fish_vi_key_bindings
